@@ -21,7 +21,11 @@ SELECT
     CASE 
         WHEN f.PE_Ratio > s.Avg_PE_Ratio THEN 'Yes'
         ELSE 'No'
-    END AS Above_Avg_PE
+    END AS Above_Avg_PE,
+    CASE 
+        WHEN f.Dividend_Yield > s.Avg_Dividend_Yield THEN 'Yes'
+        ELSE 'No'
+    END AS Above_Avg_Dividend
 FROM 
     finance f
 INNER JOIN 
