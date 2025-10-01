@@ -41,4 +41,4 @@ ORDER BY
 
 ## Tableau Dashboard
 
-View the interactive dashboard for this business question: https://public.tableau.com/app/profile/xavier.fragoso/viz/FinancialAnalysisonStocks/PEDividendYieldsAboveSectorAvg
+View the interactive dashboard for this business question: [PE & Dividend Yields Above Sector Avg](https://public.tableau.com/app/profile/xavier.fragoso/viz/FinancialAnalysisonStocks/PEDividendYieldsAboveSectorAvg)
