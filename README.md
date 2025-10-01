@@ -38,3 +38,7 @@ ORDER BY
 
 > **Insight:**  
 > This query identifies which stocks in each sector have a PE ratio or dividend yield above their sector averages. Focusing on these stocks helps investors and analysts spot potentially overvalued or undervalued securities, benchmark performance within sectors, and make informed portfolio or investment decisions. Highlighting above-average stocks provides actionable insights for sector allocation, risk assessment, and investment strategy.
+
+## Tableau Dashboard
+
+View the interactive dashboard for this business question: https://public.tableau.com/app/profile/xavier.fragoso/viz/FinancialAnalysisonStocks/PEDividendYieldsAboveSectorAvg
