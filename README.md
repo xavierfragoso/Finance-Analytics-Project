@@ -42,3 +42,21 @@ ORDER BY
 ## Tableau Dashboard
 
 View the interactive dashboard for this business question: [PE & Dividend Yields Above Sector Avg](https://public.tableau.com/app/profile/xavier.fragoso/viz/FinancialAnalysisonStocks/PEDividendYieldsAboveSectorAvg)
+
+### Business Question 1:
+
+### SQL Query
+```sql
+SELECT
+    Sector,
+    YEAR(Date) AS year,
+    MONTH(Date) AS month,
+    AVG(Volume_Traded) AS avg_daily_volume
+FROM finance
+WHERE MONTH(Date) IN (6,7)
+GROUP BY Sector, YEAR(Date), MONTH(Date)
+ORDER BY Sector, year, month;
+```
+
+> **Insight:**  
+> 
