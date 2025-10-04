@@ -60,3 +60,7 @@ ORDER BY Sector, year, month;
 
 > **Insight:**  
 > Sectors with higher average daily trading volumes in June and July show greater investor activity and liquidity, helping traders identify the most actively traded sectors mid-year.
+
+## Tableau Visualization
+
+View the visualization for this business question: [Avg Daily Volume by Sector (June–July 2025)](https://public.tableau.com/app/profile/xavier.fragoso/viz/AvgDailyVolumebySectorJuneJuly2025/AvgDailyVolumebySectorJuneJuly2025)
