@@ -5,6 +5,9 @@
 - CSV dataset
 - Tableau
 
+## Project Overview
+This project analyzes stock and sector-level financial data to uncover actionable insights for investors and analysts. Using SQL for data querying and Tableau for visualization, the project explores stock valuation metrics and trading activity trends.
+
 ## Key Questions & Insights
 
 ### Business Question 1: Which stocks in each sector have a price-to-earnings (PE) ratio above their sector’s average, and which have a dividend yield above their sector’s average?
