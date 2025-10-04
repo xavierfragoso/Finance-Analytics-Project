@@ -43,7 +43,7 @@ ORDER BY
 
 View the interactive dashboard for this business question: [PE & Dividend Yields Above Sector Avg](https://public.tableau.com/app/profile/xavier.fragoso/viz/FinancialAnalysisonStocks/PEDividendYieldsAboveSectorAvg)
 
-### Business Question 1:
+### Business Question 1: Which sectors had the highest average daily trading volume in June and July, and how does this volume vary by year and month?
 
 ### SQL Query
 ```sql
@@ -59,4 +59,4 @@ ORDER BY Sector, year, month;
 ```
 
 > **Insight:**  
-> 
+> Sectors with higher average daily trading volumes in June and July show greater investor activity and liquidity, helping traders identify the most actively traded sectors mid-year.
