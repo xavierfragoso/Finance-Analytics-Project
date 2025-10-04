@@ -37,13 +37,13 @@ ORDER BY
 ```
 
 > **Insight:**  
-> This query identifies which stocks in each sector have a PE ratio or dividend yield above their sector averages. Focusing on these stocks helps investors and analysts spot potentially overvalued or undervalued securities, benchmark performance within sectors, and make informed portfolio or investment decisions. Highlighting above-average stocks provides actionable insights for sector allocation, risk assessment, and investment strategy.
+> Stocks with PE ratios or dividend yields above their sector averages may indicate over or undervaluation. Highlighting these stocks helps investors benchmark performance, assess risk, and optimize portfolio allocation.
 
 ## Tableau Dashboard
 
-View the interactive dashboard for this business question: [PE & Dividend Yields Above Sector Avg](https://public.tableau.com/app/profile/xavier.fragoso/viz/FinancialAnalysisonStocks/PEDividendYieldsAboveSectorAvg)
+View dashboard: [PE & Dividend Yields Above Sector Avg](https://public.tableau.com/app/profile/xavier.fragoso/viz/FinancialAnalysisonStocks/PEDividendYieldsAboveSectorAvg)
 
-### Business Question 2: Which sectors had the highest average daily trading volume in June and July, and how does this volume vary by year and month?
+### Business Question 2: Which sectors had the highest average daily trading volume in June and July, and how does this volume vary across months?
 
 ### SQL Query
 ```sql
@@ -63,4 +63,4 @@ ORDER BY Sector, year, month;
 
 ## Tableau Visualization
 
-View the visualization for this business question: [Avg Daily Volume by Sector (June–July 2025)](https://public.tableau.com/app/profile/xavier.fragoso/viz/AvgDailyVolumebySectorJuneJuly2025/AvgDailyVolumebySectorJuneJuly2025)
+View visualization: [Avg Daily Volume by Sector (June–July 2025)](https://public.tableau.com/app/profile/xavier.fragoso/viz/AvgDailyVolumebySectorJuneJuly2025/AvgDailyVolumebySectorJuneJuly2025)
