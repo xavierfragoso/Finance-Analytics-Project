@@ -43,7 +43,7 @@ ORDER BY
 
 View the interactive dashboard for this business question: [PE & Dividend Yields Above Sector Avg](https://public.tableau.com/app/profile/xavier.fragoso/viz/FinancialAnalysisonStocks/PEDividendYieldsAboveSectorAvg)
 
-### Business Question 1: Which sectors had the highest average daily trading volume in June and July, and how does this volume vary by year and month?
+### Business Question 2: Which sectors had the highest average daily trading volume in June and July, and how does this volume vary by year and month?
 
 ### SQL Query
 ```sql
