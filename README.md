@@ -6,7 +6,7 @@
 - Tableau
 
 ## Project Overview
-This project analyzes stock and sector-level financial data to uncover actionable insights for investors and analysts. Using SQL for data querying and Tableau for visualization, the project explores stock valuation metrics and trading activity trends.
+Analyzed stock and sector-level financial data to uncover valuation patterns, investor activity, and sector performance trends. Demonstrated intermediate SQL skills including joins, aggregations, and conditional logic, and used Tableau to visualize key insights that support equity analysis, sector comparison, and data-driven investment decisions.
 
 ## Key Questions & Insights
 
@@ -40,7 +40,7 @@ ORDER BY
 ```
 
 > **Insight:**  
-> Stocks with PE ratios or dividend yields above their sector averages may indicate over or undervaluation. Highlighting these stocks helps investors benchmark performance, assess risk, and optimize portfolio allocation.
+> This analysis compares individual stock metrics to sector averages, highlighting which companies may be overvalued (high P/E) or income-attractive (high dividend yield) relative to their peers. These insights support investment decisions around valuation, risk assessment, and portfolio diversification.
 
 ## Tableau Dashboard
 
@@ -62,7 +62,7 @@ ORDER BY Sector, year, month;
 ```
 
 > **Insight:**  
-> Sectors with higher average daily trading volumes in June and July show greater investor activity and liquidity, helping traders identify the most actively traded sectors mid-year.
+> Identifies which sectors saw elevated investor activity and liquidity during June and July. Higher average trading volumes indicate increased market interest, enabling analysts and traders to detect seasonal patterns, sentiment shifts, and high-engagement sectors during mid-year trading.
 
 ## Tableau Visualization
 
