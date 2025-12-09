@@ -44,7 +44,7 @@ ORDER BY
 
 ## Tableau Dashboard
 
-View dashboard: [PE & Dividend Yields Above Sector Avg](https://public.tableau.com/app/profile/xavier.fragoso/viz/FinancialAnalysisonStocks/PEDividendYieldsAboveSectorAvg)
+View interactive dashboard here: [Stock Valuation & Dividend Yield vs Sector Benchmarks](https://public.tableau.com/app/profile/xavier.fragoso/viz/StockValuationDividendYieldvsSectorBenchmarks/FinanceDashboardValuationYield)
 
 ### Business Question 2: Which sectors had the highest average daily trading volume in June and July, and how does this volume vary across months?
 
@@ -66,4 +66,4 @@ ORDER BY Sector, year, month;
 
 ## Tableau Visualization
 
-View visualization: [Avg Daily Volume by Sector (June–July 2025)](https://public.tableau.com/app/profile/xavier.fragoso/viz/AvgDailyVolumebySectorJuneJuly2025/AvgDailyVolumebySectorJuneJuly2025)
+View interactive dashboard here: [Avg Daily Volume by Sector (June vs July 2025)](https://public.tableau.com/app/profile/xavier.fragoso/viz/AvgDailyVolumebySectorJuneJuly2025/Dashboard1)
